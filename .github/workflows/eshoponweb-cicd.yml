@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 1af2f782-fa57-4600-b140-bab33c14e19c
-  WEBAPP-NAME: eshoponweb-mhousa
+  WEBAPP-NAME: mhousa
 
 
 jobs:
